@@ -1,0 +1,3 @@
+[04-Aug-2022 11:53:43 America/New_York] PHP Notice:  Undefined variable: bch_address in /home/bittriru/public_html/api/userprofile/updateprofileclass.php on line 13
+[04-Aug-2022 11:54:07 America/New_York] PHP Notice:  Undefined variable: bch_address in /home/bittriru/public_html/api/userprofile/updateprofileclass.php on line 13
+[04-Aug-2022 11:56:52 America/New_York] PHP Notice:  Undefined variable: bch_address in /home/bittriru/public_html/api/userprofile/updateprofileclass.php on line 13
